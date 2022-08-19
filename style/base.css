@@ -1,0 +1,16 @@
+:root{
+    --azul-4:#051D3B;
+    --azul-3:#5081FB;
+    --azul-2:#7BA4FC;
+    --azul-1:#96B9FD;
+
+
+}
+
+body{
+    margin-right: 1em;
+    margin-left: 1em;
+    
+    background-color: var(--azul-4);
+    
+}
